@@ -1,0 +1,5 @@
+column,lower_limit,upper_limit,outlier_count,outlier_percentage
+treatment_cost,-16849.72,34369.03,8553,9.5
+gross_amount,-54947.4,128041.7,1144,3.81
+line_amount,-1186.14,2745.11,4856,6.94
+length_of_stay,-7.0,17.0,1376,4.59
